@@ -1,4 +1,4 @@
-# 🧰 Jean's Offensive Security Arsenal
+# Jean's Offensive Security Arsenal
 
 Personal vault of tools, writeups, and notes — built from CTFs, HTB, and real-world research.
 
