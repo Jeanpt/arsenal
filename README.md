@@ -7,7 +7,7 @@ Personal vault of tools, writeups, and notes — built from CTFs, HTB, and real-
 ## 📂 Repo Structure
 
 - `htb-writeups/` – My own walkthroughs & scripts from HackTheBox
-- `recon-scripts/` – Quick enumeration and recon tools
+- `tools & scripts/` – Quick enumeration and recon tools
 - `notes/` – LFI tricks, reverse shells, pivoting, etc.
 
 > ⚠️ Some content may be adapted from public sources for research/education.
