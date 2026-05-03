@@ -1,4 +1,4 @@
-# Notes
+# Cheatsheets
 
 Cheatsheets and reference material for offensive security techniques. Covers things that come up repeatedly across engagements and CTFs.
 

@@ -10,7 +10,8 @@ Personal offensive security repository — tools, notes, writeups, and detection
 |---|---|
 | [htb-writeups/](htb-writeups/) | Walkthroughs from HackTheBox machines |
 | [tools & scripts/](tools%20&%20scripts/) | Custom recon and utility scripts |
-| [notes/](notes/) | Cheatsheets, payload references, technique notes |
+| [cheatsheets/](cheatsheets/) | Quick-reference technique material for use during engagements and CTFs |
+| [resources/](resources/) | Curated external tools, sites, and offensive utilities |
 | [detections/](detections/) | Detection rules and blue team references |
 
 ---
