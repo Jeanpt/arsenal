@@ -4,7 +4,7 @@
 
 ## Web Pentest Toolkit
 
-### hackkit.dev
+### [hackkit.dev](https://hackkit.dev)
 
 Browser-based toolkit for web pentest and bug hunting — no install required.
 
@@ -22,7 +22,7 @@ Good for quick payload generation and testing web-layer vulnerabilities without 
 
 ## AV / EDR Evasion
 
-### amsi.fail
+### [amsi.fail](https://amsi.fail)
 
 Generates obfuscated PowerShell snippets that break or disable AMSI for the current process. Each generated payload is randomized to avoid static signatures.
 
