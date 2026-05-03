@@ -1,13 +1,26 @@
-# Jean's Offensive Security Arsenal
+# Arsenal
 
-Personal vault of tools, writeups, and notes — built from CTFs, HTB, and real-world research.
+Personal offensive security repository — tools, notes, writeups, and detection references built up from HackTheBox, CTF competitions, and independent research.
 
 ---
 
-## 📂 Repo Structure
+## Structure
 
-- `htb-writeups/` – My own walkthroughs & scripts from HackTheBox
-- `tools & scripts/` – Quick enumeration and recon tools
-- `notes/` – LFI tricks, reverse shells, pivoting, etc.
+| Folder | Contents |
+|---|---|
+| [htb-writeups/](htb-writeups/) | Walkthroughs from HackTheBox machines |
+| [tools & scripts/](tools%20&%20scripts/) | Custom recon and utility scripts |
+| [notes/](notes/) | Cheatsheets, payload references, technique notes |
+| [detections/](detections/) | Detection rules and blue team references |
 
-> ⚠️ Some content may be adapted from public sources for research/education.
+---
+
+## Usage
+
+No install required for most things. Each subfolder has its own README explaining what's in it and how to use it.
+
+Python scripts require Python 3. Bash scripts are written for Linux/macOS.
+
+---
+
+> For research and educational use. Some material adapted from public sources; original attribution preserved where applicable.

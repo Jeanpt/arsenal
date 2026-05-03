@@ -1,3 +1,5 @@
+#simple port scanner script that run concurrently checking each port 1-65535
+
 import sys
 import socket
 from datetime import datetime
