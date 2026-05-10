@@ -46,4 +46,4 @@ PowerShell script that uses dynamically looked-up Win32 API calls to execute she
 
 **How it works:** Instead of calling Win32 APIs directly (which Defender hooks), it resolves them dynamically at runtime — hollow a target process and inject shellcode without triggering static signatures.
 
-**Seen used on:** HTB Ghost
+**Seen used on:** HTB Helix
