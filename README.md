@@ -1,6 +1,6 @@
 # Arsenal
 
-Personal offensive security repository — tools, notes, writeups, and detection references built up from HackTheBox, CTF competitions, and independent research.
+Personal security repository covering offensive and defensive topics — tools, cheatsheets, writeups, detection references, and CVE PoCs built up from HackTheBox, CTF competitions, and independent research.
 
 ---
 
