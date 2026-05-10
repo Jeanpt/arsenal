@@ -8,6 +8,7 @@ Personal offensive security repository — tools, notes, writeups, and detection
 
 | Folder | Contents |
 |---|---|
+| [exploits/](exploits/) | CVE PoC exploits for security research and authorized testing |
 | [htb-writeups/](htb-writeups/) | Walkthroughs from HackTheBox machines |
 | [tools & scripts/](tools%20&%20scripts/) | Custom recon and utility scripts |
 | [cheatsheets/](cheatsheets/) | Quick-reference technique material for use during engagements and CTFs |
