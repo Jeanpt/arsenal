@@ -45,5 +45,3 @@ PowerShell script that uses dynamically looked-up Win32 API calls to execute she
 **Gist:** https://gist.githubusercontent.com/qtc-de/1ecc57264c8270f869614ddd12f2f276/raw/c5810a377af12b21629f25cd60b2e9c42713b8e8/DynWin32-ShellcodeProcessHollowing.ps1
 
 **How it works:** Instead of calling Win32 APIs directly (which Defender hooks), it resolves them dynamically at runtime — hollow a target process and inject shellcode without triggering static signatures.
-
-**Seen used on:** HTB Helix
