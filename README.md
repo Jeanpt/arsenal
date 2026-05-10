@@ -8,7 +8,6 @@ Personal offensive security repository — tools, notes, writeups, and detection
 
 | Folder | Contents |
 |---|---|
-| [exploits/](exploits/) | CVE PoC exploits for security research and authorized testing |
 | [htb-writeups/](htb-writeups/) | Walkthroughs from HackTheBox machines |
 | [tools & scripts/](tools%20&%20scripts/) | Custom recon and utility scripts |
 | [cheatsheets/](cheatsheets/) | Quick-reference technique material for use during engagements and CTFs |
@@ -26,3 +25,9 @@ Python scripts require Python 3. Bash scripts are written for Linux/macOS.
 ---
 
 > For research and educational use. Some material adapted from public sources; original attribution preserved where applicable.
+
+## Standalone CVE PoCs
+
+| Repo | CVE | Description |
+|------|-----|-------------|
+| [CVE-2023-34468](https://github.com/Jeanpt/CVE-2023-34468) | CVE-2023-34468 | Apache NiFi H2 RCE (CVSS 9.8) |
